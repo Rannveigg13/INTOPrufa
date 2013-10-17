@@ -31,6 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout <<"Ich bin ein Lehrer!"<< endl;
 	cout << "Rannveig" << endl;
 	int val;
 	do
